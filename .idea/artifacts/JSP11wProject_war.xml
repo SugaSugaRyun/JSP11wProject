@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSP11wProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JSP11wProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JSP11wProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSP11wProject:war exploded" />
+    </root>
+  </artifact>
+</component>
